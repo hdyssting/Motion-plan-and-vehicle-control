@@ -1,0 +1,19 @@
+SIMFILE
+FILEBASE C:\Users\Public\Documents\CarSim2016.1_Data\Runs\Run_b1c2d07a-8803-403a-a37f-6b25aa1a6364
+INPUT C:\Users\Public\Documents\CarSim2016.1_Data\Runs\Run_b1c2d07a-8803-403a-a37f-6b25aa1a6364_all.par
+ECHO C:\Users\Public\Documents\CarSim2016.1_Data\Runs\Run_b1c2d07a-8803-403a-a37f-6b25aa1a6364_echo.par
+FINAL C:\Users\Public\Documents\CarSim2016.1_Data\Runs\Run_b1c2d07a-8803-403a-a37f-6b25aa1a6364_end.par
+LOGFILE C:\Users\Public\Documents\CarSim2016.1_Data\Runs\Run_b1c2d07a-8803-403a-a37f-6b25aa1a6364_log.txt
+ERDFILE C:\Users\Public\Documents\CarSim2016.1_Data\Runs\Run_b1c2d07a-8803-403a-a37f-6b25aa1a6364.erd
+ANIFILE C:\Users\Public\Documents\CarSim2016.1_Data\runs\animator.par
+PROGDIR C:\Program Files (x86)\CarSim2016.1_Prog\
+RESOURCEDIR C:\Program Files (x86)\CarSim2016.1_Prog\Resources\
+DATADIR C:\Users\Public\Documents\CarSim2016.1_Data\
+GUI_REFRESH_V CarSim_RefreshEvent_1820
+PRODUCT_ID CarSim
+PRODUCT_VER 2016.1
+VEHICLE_CODE i_i
+EXT_MODEL_STEP 0.0005
+PORTS_IMP 1,4
+PORTS_EXP 1,6
+END
